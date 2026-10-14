@@ -1,7 +1,4 @@
-datasets
+streamlit
 scikit-learn
-pandas
-numpy
-matplotlib
-seaborn
 joblib
+numpy
