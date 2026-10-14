@@ -40,3 +40,11 @@ Hugging Face: dair-ai/emotion
 
 ## Run
 Open the notebook in Google Colab and run the cells in order.
+
+## Live Demo
+
+Try the deployed application here:
+
+**[Emotion Detection from Text — Open Live App](https://emotion-detection-from-text-nlp-course.streamlit.app/)**
+
+Enter an English sentence and let the model predict its dominant emotion: Sadness, Joy, Love, Anger, Fear, or Surprise.
