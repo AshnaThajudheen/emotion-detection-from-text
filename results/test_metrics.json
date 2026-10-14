@@ -1,0 +1,8 @@
+{
+    "Model": "Linear SVM",
+    "Test Accuracy": 0.88,
+    "Macro Precision": 0.8236028246119206,
+    "Macro Recall": 0.8377400821671941,
+    "Macro F1": 0.8297432911341618,
+    "Weighted F1": 0.8809173923078899
+}
